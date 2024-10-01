@@ -4,7 +4,7 @@
 
 🔗 [GitHub](https://github.com/Swagata-Roy) • [Email Me](mailto:swagata19s18r@gmail.com)
 
-I am an innovative web developer with a solid foundation in **Computer Science and Engineering**. I hold a **B.Sc. (Hons)** in Computer Science. Throughout my academic journey, I have engaged in cutting-edge **machine learning** and **AI projects**, driven by a passion for leveraging technology to address real-world challenges.
+I am an innovative web developer with a solid foundation in **Computer Science and Engineering**. I hold a **B.Sc. (Hons)** in Computer Science. Throughout my academic journey, I have engaged in cutting-edge **machine learning** and **AI projects**, driven by a passion for leveraging AI to address real-world challenges.
 
 ## 🔥 Technologies
 
