@@ -38,7 +38,7 @@ I'm an innovative Web developer with a strong foundation in **Computer Science a
 ## 🚀 Projects
 
 - **Bless Foundation NGO Website** *(Private Repository)*  
-  A dynamic website for the **Bless Foundation** NGO, featuring an admin panel for content and donation management. Developed in collaboration with **Rockwon IT Global PTE LTD** starting on **May 15, 2024**. The website includes:
+  A dynamic website for the **Bless Foundation** NGO, with an admin panel for real time content update. The website includes:
   - Custom content management system (CMS) for real-time updates.
   - Responsive design, optimized for mobile and desktop users.
   - Technologies: HTML, CSS, JavaScript, PHP, MySQL.
