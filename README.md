@@ -85,12 +85,6 @@ May 2024 – Present
 - Completed various courses in **AI**, **Cloud Computing**, **Cybersecurity**, and **Machine Learning**.
 - Certifications available upon request.
 
-## 📊 GitHub Stats
-
-![Swagata's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swagata-Roy&show_icons=true&theme=radical)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Swagata-Roy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 🌍 Languages
 - Bengali: Native
 - English: Fluent
