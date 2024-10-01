@@ -1,6 +1,12 @@
 # Hi there! 👋 I’m Swagata Roy
 
-## 🔥 Technologies
+**Passionate Software Developer | AI Enthusiast | Lifelong Learner**
+
+🔗 [GitHub](https://github.com/Swagata-Roy) • [Email Me](mailto:swagata19s18r@gmail.com)
+
+I'm an innovative software developer with a strong foundation in **Computer Science and Engineering**. I completed my **B.Sc. (Hons)** in Computer Science from **BGC Trust University**, where I achieved a **CGPA of 3.73**. During my journey, I worked on cutting-edge **machine learning** and **AI projects**, and have a deep passion for leveraging technology to solve real-world problems.
+
+## 🔥 Technologies & Skills
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -24,3 +30,70 @@
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Cpanel](https://img.shields.io/badge/-Cpanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
 
+- **Programming Languages**: Python, JavaScript, HTML, CSS
+- **Databases**: MS SQL, MySQL, Supabase
+- **Frameworks & Tools**: Bootstrap, Streamlit, Tauri, Neutralinojs
+- **AI & Machine Learning**: Machine Learning, Deep Learning, OpenAI API, Gemini API
+
+## 🚀 Projects
+
+- **Bless Foundation NGO Website** *(Private Repository)*  
+  A dynamic website for the **Bless Foundation** NGO, featuring an admin panel for content and donation management. Developed in collaboration with **Rockwon IT Global PTE LTD** starting on **May 15, 2024**. The website includes:
+  - Custom content management system (CMS) for real-time updates.
+  - Responsive design, optimized for mobile and desktop users.
+  - Technologies: HTML, CSS, JavaScript, PHP, MySQL.
+  
+  **Note**: This repository is private due to client confidentiality.
+
+- **AfterImage** *(Private Repository)*  
+  A lightweight feature-rich Windows app for image editing with features like filters, cropping, and image enhancement.
+
+- **Chat Garden** *(Private Repository)*  
+  Multi-chatbot software designed for various fields.
+
+- **Mystic Travelers** *(Public Repository)*  
+  A community-driven travel platform aimed at connecting travelers through a visually stunning website.
+
+## 💼 Experience
+
+**Intern (Web Developer)**  
+*Rockwon IT Global PTE LTD, Chattogram, Bangladesh*  
+Oct 2023 – Jan 2024  
+- Led a team to develop a database system with offline capabilities.
+- Enhanced system efficiency by optimizing cloud synchronization and local storage.
+- Implemented robust error handling, ensuring seamless data syncing.
+- Delivered the project on time with minimal resource consumption.
+
+**Freelance Web Developer**  
+*Rockwon IT Global PTE LTD, Chattogram, Bangladesh*  
+May 2024 – Present  
+- Rehired by Rockwon IT Global PTE LTD to develop a dynamic website for **Bless Foundation**, an NGO.
+- Designed and implemented both user side and admin panel.
+- Custom content management system (CMS) for real-time updates.
+- Responsive design, optimized for mobile and desktop users.
+- Worked closely with the client to meet specific needs for scalability and user experience.
+- Technologies: HTML, CSS, JavaScript, PHP, MySQL.
+
+## 🎓 Education
+
+**B.Sc. (Hons) in Computer Science and Engineering**  
+*BGC Trust University Bangladesh* (2020 - 2023)  
+- CGPA: 3.73/4.00
+- Secured **2nd place** in the 2022 Software Exhibition at BGC Trust University.
+
+## 📚 Online Courses & Certifications
+- Completed various courses in **AI**, **Cloud Computing**, **Cybersecurity**, and **Machine Learning**.
+- Certifications available upon request.
+
+## 📊 GitHub Stats
+
+![Swagata's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swagata-Roy&show_icons=true&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Swagata-Roy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🌍 Languages
+- Bengali: Native
+- English: Fluent
+
+## 📫 How to reach me
+- Email: [swagata19s18r@gmail.com](mailto:swagata19s18r@gmail.com)
