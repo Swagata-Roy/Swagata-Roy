@@ -1,10 +1,10 @@
 # Hi there! 👋 I’m Swagata Roy
 
-**Passionate Software Developer | AI Enthusiast | Lifelong Learner**
+**Passionate Web Developer | AI Enthusiast | Lifelong Learner**
 
 🔗 [GitHub](https://github.com/Swagata-Roy) • [Email Me](mailto:swagata19s18r@gmail.com)
 
-I'm an innovative software developer with a strong foundation in **Computer Science and Engineering**. I completed my **B.Sc. (Hons)** in Computer Science from **BGC Trust University**, where I achieved a **CGPA of 3.73**. During my journey, I worked on cutting-edge **machine learning** and **AI projects**, and have a deep passion for leveraging technology to solve real-world problems.
+I'm an innovative Web developer with a strong foundation in **Computer Science and Engineering**. I completed my **B.Sc. (Hons)** in Computer Science from **BGC Trust University**, where I achieved a **CGPA of 3.73**. During my journey, I worked on cutting-edge **machine learning** and **AI projects**, and have a deep passion for leveraging technology to solve real-world problems.
 
 ## 🔥 Technologies & Skills
 
