@@ -90,7 +90,6 @@ I have completed numerous online courses across platforms such as **Coursera**, 
 - **Cloud Computing** & **AWS Fundamentals**
 - **Cybersecurity & Data Privacy**
 - **Web Development**
-- **AI and Machine Learning**
 - **Philosophy**
 
 These courses have significantly contributed to my development.
