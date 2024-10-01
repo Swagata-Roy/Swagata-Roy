@@ -73,7 +73,6 @@ May 2024 – Present
 - Designed and implemented both user side and admin panel.
 - Custom content management system (CMS) for real-time updates.
 - Responsive design, optimized for mobile and desktop users.
-- Worked closely with the client to meet specific needs for scalability and user experience.
 - Technologies: HTML, CSS, JavaScript, PHP, MySQL.
 
 ## 🎓 Education
