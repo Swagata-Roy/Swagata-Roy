@@ -32,7 +32,7 @@ I'm an innovative Web developer with a strong foundation in **Computer Science a
 
 - **Programming Languages**: Python, JavaScript, HTML, CSS
 - **Databases**: MS SQL, MySQL, Supabase
-- **Frameworks & Tools**: Bootstrap, Streamlit, Tauri, Neutralinojs
+- **Frameworks & Tools**: Bootstrap, Streamlit, Tauri, Neutralinojs, Microsoft SQL Server, Cpanel
 - **AI & Machine Learning**: Machine Learning, Deep Learning, OpenAI API, Gemini API
 
 ## 🚀 Projects
