@@ -27,3 +27,25 @@
 ## 📊 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swagata-Roy&layout=compact&theme=nightowl)
+
+
+<script>
+    // Function to determine the current theme
+    function getCurrentTheme() {
+        const isDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+        return isDark ? "nightowl" : "solarized-light";
+    }
+
+    // Update the badge URL based on the theme
+    function updateBadge() {
+        const theme = getCurrentTheme();
+        const username = "Swagata-Roy"; // Replace with your GitHub username
+        const badgeUrl = `https://github-readme-stats.vercel.app/api/top-langs/?username=${username}&layout=compact&theme=${theme}`;
+        document.getElementById("langBadge").src = badgeUrl;
+    }
+
+    // Call the function on page load
+    window.onload = updateBadge;
+</script>
+
+<img id="langBadge" src="" alt="Top Languages" />
