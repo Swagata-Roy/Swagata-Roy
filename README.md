@@ -19,7 +19,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=tauri&logoColor=white)
-![Neutralinojs](https://img.shields.io/badge/-Neutralinojs-231F20?style=flat-square&logo=neutralinojs)
+![Neutralinojs](https://img.shields.io/badge/-Neutralinojs-4A90E2?style=flat-square&logo=neutralinojs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Cpanel](https://img.shields.io/badge/-Cpanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
