@@ -84,7 +84,7 @@ May 2024 – Present
 
 ## 📚 Online Courses & Certifications
 
-I have completed numerous online courses across platforms such as **Coursera**, **BitDegree**, and **Cybrary**. These courses were taught by industry experts from top companies and prestigious universities like **Google**, **Amazon**, **Microsoft**, **Caltech**, **University of Michigan** etc. Below are the key areas I have focused on:
+I have completed numerous online courses across platforms such as **Coursera**, **BitDegree**, and **Cybrary**. These courses were taught by industry experts from top companies and prestigious universities like **Google**, **Microsoft**, **IBM**, **Duke**, **The University of Maryland**, **University of Michigan** etc. Below are the key areas I have focused on:
 
 - **Machine Learning** & **Artificial Intelligence**
 - **Cloud Computing** & **AWS Fundamentals**
