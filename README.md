@@ -54,6 +54,8 @@ I'm an innovative software developer with a strong foundation in **Computer Scie
 - **Mystic Travelers** *(Public Repository)*  
   A community-driven travel platform aimed at connecting travelers through a visually stunning website.
 
+- **Various Small Websites**: Developed multiple small websites to showcase different web technologies and responsive designs.
+
 ## 💼 Experience
 
 **Intern (Web Developer)**  
