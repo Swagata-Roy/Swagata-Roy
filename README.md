@@ -4,7 +4,7 @@
 
 🔗 [GitHub](https://github.com/Swagata-Roy) • [Email Me](mailto:swagata19s18r@gmail.com)
 
-I'm an innovative Web developer with a strong foundation in **Computer Science and Engineering**. I completed my **B.Sc. (Hons)** in Computer Science from **BGC Trust University**. During my journey, I worked on cutting-edge **machine learning** and **AI projects**, and have a deep passion for leveraging technology to solve real-world problems.
+I am an innovative web developer with a solid foundation in **Computer Science and Engineering**. I hold a **B.Sc. (Hons)** in Computer Science. Throughout my academic journey, I have engaged in cutting-edge **machine learning** and **AI projects**, driven by a passion for leveraging technology to address real-world challenges.
 
 ## 🔥 Technologies
 
