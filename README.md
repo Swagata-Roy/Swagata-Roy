@@ -30,10 +30,6 @@ I'm an innovative Web developer with a strong foundation in **Computer Science a
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Cpanel](https://img.shields.io/badge/-Cpanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
 
-- **Programming Languages**: Python, JavaScript, HTML, CSS
-- **Databases**: MS SQL, MySQL, Supabase
-- **Frameworks & Tools**: Bootstrap, Streamlit, Tauri, Neutralinojs, Microsoft SQL Server, Cpanel
-- **AI & Machine Learning**: Machine Learning, Deep Learning, OpenAI API, Gemini API
 
 ## 🚀 Projects
 
@@ -61,7 +57,7 @@ I'm an innovative Web developer with a strong foundation in **Computer Science a
 **Intern (Web Developer)**  
 *Rockwon IT Global PTE LTD, Chattogram, Bangladesh*  
 Oct 2023 – Jan 2024  
-- Led a team to develop a database system with offline capabilities.
+- Led a team of interns to develop a database system with offline capabilities.
 - Enhanced system efficiency by optimizing cloud synchronization and local storage.
 - Implemented robust error handling, ensuring seamless data syncing.
 - Delivered the project on time with minimal resource consumption.
