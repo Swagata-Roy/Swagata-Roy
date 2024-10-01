@@ -83,8 +83,17 @@ May 2024 – Present
 - Secured **2nd place** in the 2022 Software Exhibition at BGC Trust University.
 
 ## 📚 Online Courses & Certifications
-- Completed various courses in **AI**, **Cloud Computing**, **Cybersecurity**, and **Machine Learning**.
-- Certifications available upon request.
+
+I have completed numerous online courses across platforms such as **Coursera**, **BitDegree**, and **Cybrary**. These courses were taught by industry experts from top companies and prestigious universities like **Google**, **Amazon**, **Microsoft**, **Caltech**, **University of Michigan** etc. Below are the key areas I have focused on:
+
+- **Machine Learning** & **Artificial Intelligence**
+- **Cloud Computing** & **AWS Fundamentals**
+- **Cybersecurity & Data Privacy**
+- **Web Development**
+- **AI and Machine Learning**
+- **Philosophy**
+
+These courses have significantly contributed to my development.
 
 ## 🌍 Languages
 - Bengali: Native
