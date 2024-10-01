@@ -22,6 +22,4 @@
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
-## 💻 Languages Stats
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swagata-Roy&layout=compact&theme=dark)
