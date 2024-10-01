@@ -79,7 +79,7 @@ May 2024 – Present
 ## 🎓 Education
 
 **B.Sc. (Hons) in Computer Science and Engineering**  
-*BGC Trust University Bangladesh* (2020 - 2023)  
+*BGC Trust University Bangladesh* (Jan 2020 - Dec 2023)  
 - CGPA: 3.73/4.00
 - Secured **2nd place** in the 2022 Software Exhibition at BGC Trust University.
 
