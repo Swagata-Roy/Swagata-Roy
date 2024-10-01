@@ -9,7 +9,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat-square&logo=machine-learning&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-00C4B3?style=flat-square&logo=machine-learning&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-7A67D3?style=flat-square&logo=deep-learning&logoColor=white)
 
 ## 🛠 Tools
