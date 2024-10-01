@@ -1,18 +1,12 @@
 # Hi there! 👋 I’m Swagata Roy
 
-## 🚀 Reach Me At
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdsajal/)](https://www.linkedin.com/in/mdsajal/)
-[![Behance](https://img.shields.io/badge/-Behance-blue?style=flat-square&logo=Behance&logoColor=white)](https://www.behance.net/mdsajal)
-[![Instagram](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mdsajal/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mdsajal)
-
 ## 🔥 Technologies
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
