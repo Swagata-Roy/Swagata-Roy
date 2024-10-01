@@ -17,9 +17,6 @@ I'm an innovative Web developer with a strong foundation in **Computer Science a
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-00C4B3?style=flat-square&logo=machine-learning&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-7A67D3?style=flat-square&logo=deep-learning&logoColor=white)
-
-## 🛠 Tools
-
 ![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Google AI Studio (Gemini API)](https://img.shields.io/badge/-Google%20AI%20Studio%20(Gemini%20API)-34A853?style=flat-square&logo=google&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
