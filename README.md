@@ -26,4 +26,4 @@
 
 ## 📊 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swagata-Roy&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swagata-Roy&layout=compact&theme=highcontrast)
