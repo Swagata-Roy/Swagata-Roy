@@ -60,7 +60,7 @@ Oct 2023 – Jan 2024
 - Led a team of interns to develop a database system with offline capabilities.
 - Enhanced system efficiency by optimizing cloud synchronization and local storage.
 - Implemented robust error handling, ensuring seamless data syncing.
-- Delivered the project on time with minimal resource consumption.
+- Delivered the project on time.
 
 **Freelance Web Developer**  
 *Rockwon IT Global PTE LTD, Chattogram, Bangladesh*  
