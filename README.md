@@ -71,13 +71,6 @@ May 2024 – Present
 - Responsive design, optimized for mobile and desktop users.
 - Technologies: HTML, CSS, JavaScript, PHP, MySQL.
 
-## 🎓 Education
-
-**B.Sc. (Hons) in Computer Science and Engineering**  
-*BGC Trust University Bangladesh* (Jan 2020 - Dec 2023)  
-- CGPA: 3.73/4.00
-- Secured **2nd place** in the 2022 Software Exhibition at BGC Trust University.
-
 ## 📚 Online Courses & Certifications
 
 I have completed numerous online courses across platforms such as **Coursera**, **BitDegree**, and **Cybrary**. These courses were taught by industry experts from top companies and prestigious universities like **Google**, **Microsoft**, **IBM**, **Duke**, **The University of Maryland**, **University of Michigan** etc. Below are the key areas I have focused on:
