@@ -33,13 +33,11 @@ I'm an innovative web developer with a solid foundation in **computer science an
 
 ## 🚀 Projects
 
-- **Bless Foundation NGO Website** *(Private Repository)*  
-  A dynamic website for the **Bless Foundation** NGO, with an admin panel for real time content update. The website includes:
+- **Dynamic CMS Website** *(Private Repository)*  
+  A dynamic CMS website, with an admin panel for real time content update. The website includes:
   - Custom content management system (CMS) for real-time updates.
   - Responsive design, optimized for mobile and desktop users.
   - Technologies: HTML, CSS, JavaScript, PHP, MySQL.
-  
-  **Note**: This repository is private due to client confidentiality.
 
 - **AfterImage** *(Private Repository)*  
   A lightweight feature-rich Windows app for image editing with features like filters, cropping, and image enhancement.
@@ -64,12 +62,7 @@ Oct 2023 – Jan 2024
 
 **Freelance Web Developer**  
 *Rockwon IT Global PTE LTD, Chattogram, Bangladesh*  
-May 2024 – Present  
-- Rehired by Rockwon IT Global PTE LTD to develop a dynamic website for **Bless Foundation**, an NGO.
-- Designed and implemented both user side and admin panel.
-- Custom content management system (CMS) for real-time updates.
-- Responsive design, optimized for mobile and desktop users.
-- Technologies: HTML, CSS, JavaScript, PHP, MySQL.
+May 2024 – Present
 
 ## 📚 Online Courses & Certifications
 
