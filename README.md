@@ -2,7 +2,7 @@
 
 **Passionate Web Developer | AI Enthusiast | Lifelong Learner**
 
-🔗 [ORCID]([https://github.com/Swagata-Roy](https://orcid.org/0009-0008-7852-4708)) • [Email Me](mailto:swagata19s18r@gmail.com)
+🔗 [ORCID](https://orcid.org/0009-0008-7852-4708) • [Email Me](mailto:swagata19s18r@gmail.com)
 
 I'm an innovative web developer with a solid foundation in **computer science and engineering**. I hold a **B.Sc. (Hons)** in Computer Science, with hands-on experience in developing **web applications** and working on **machine learning** and **AI-driven projects**. I have a passion for leveraging AI to solve complex, real-world problems.
 
