@@ -33,54 +33,6 @@ I'm an innovative web developer with a solid foundation in **computer science an
 ![Cpanel](https://img.shields.io/badge/-Cpanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
 
 
-## 🚀 Projects
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swagata-Roy&langs_count=10&hide=html,css&theme=dark)
 
-- **Dynamic CMS Website** *(Private Repository)*  
-  A dynamic CMS website, with an admin panel for real time content update. The website includes:
-  - Custom content management system (CMS) for real-time updates.
-  - Responsive design, optimized for mobile and desktop users.
-  - Technologies: HTML, CSS, JavaScript, PHP, MySQL.
 
-- **AfterImage** *(Private Repository)*  
-  A lightweight feature-rich Windows app for image editing with features like filters, cropping, and image enhancement.
-
-- **Chat Garden** *(Private Repository)*  
-  Multi-chatbot software designed for various fields.
-
-- **Mystic Travelers** *(Public Repository)*  
-  A community-driven travel platform aimed at connecting travelers through a visually stunning website.
-
-- **Various Small Websites**: Developed multiple small websites to showcase different web technologies and responsive designs.
-
-## 💼 Experience
-
-**Intern (Web Developer)**  
-*Rockwon IT Global PTE LTD, Chattogram, Bangladesh*  
-Oct 2023 – Jan 2024  
-- Led a team of interns to develop a database system with offline capabilities.
-- Enhanced system efficiency by optimizing cloud synchronization and local storage.
-- Implemented robust error handling, ensuring seamless data syncing.
-- Delivered the project on time.
-
-**Freelance Web Developer**  
-*Rockwon IT Global PTE LTD, Chattogram, Bangladesh*  
-May 2024 – Present
-
-## 📚 Online Courses & Certifications
-
-I have completed numerous online courses across platforms such as **Coursera**, **BitDegree**, and **Cybrary**. These courses were taught by industry experts from top companies and prestigious universities like **Google**, **Microsoft**, **IBM**, **Duke**, **The University of Maryland**, **University of Michigan** etc. Below are the key areas I have focused on:
-
-- **Machine Learning** & **Artificial Intelligence**
-- **Cloud Computing** & **AWS Fundamentals**
-- **Cybersecurity & Data Privacy**
-- **Web Development**
-- **Philosophy**
-
-These courses have significantly contributed to my development.
-
-## 🌍 Languages
-- Bengali: Native
-- English: Fluent
-
-## 📫 How to reach me
-- Email: [swagata19s18r@gmail.com](mailto:swagata19s18r@gmail.com)
