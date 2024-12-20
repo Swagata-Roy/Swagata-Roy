@@ -35,4 +35,9 @@ I'm an innovative web developer with a solid foundation in **computer science an
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swagata-Roy&langs_count=10&theme=dark)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark)
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME)
+
+
 
