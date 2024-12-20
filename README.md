@@ -34,3 +34,5 @@ I'm an innovative web developer with a solid foundation in **computer science an
 
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swagata-Roy&langs_count=10&theme=dark)
+
+![Your Activity Graph](https://activity-graph.herokuapp.com/graph?username=Swagata-Roy&theme=react)
