@@ -33,4 +33,4 @@ I'm an innovative web developer with a solid foundation in **computer science an
 ![Cpanel](https://img.shields.io/badge/-Cpanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
 
 
-//![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swagata-Roy&langs_count=20&count_private=true&theme=dark)
+
