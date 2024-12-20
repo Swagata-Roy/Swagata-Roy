@@ -6,7 +6,7 @@
 
 I'm an innovative web developer with a solid foundation in **computer science and engineering**. I hold a **B.Sc. (Hons)** in Computer Science, with hands-on experience in developing **web applications** and working on **machine learning** and **AI-driven projects**. I have a passion for leveraging AI to solve complex, real-world problems.
 
-## 🔥 Technologies I have used:
+## 🔥 Technologies
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -18,7 +18,7 @@ I'm an innovative web developer with a solid foundation in **computer science an
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-00C4B3?style=flat-square&logo=machine-learning&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-7A67D3?style=flat-square&logo=deep-learning&logoColor=white)
 
-## 🛠 Tools I have worked with:
+## 🛠 Tools
 
 ![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Google AI Studio (Gemini API)](https://img.shields.io/badge/-Google%20AI%20Studio%20(Gemini%20API)-34A853?style=flat-square&logo=google&logoColor=white)
