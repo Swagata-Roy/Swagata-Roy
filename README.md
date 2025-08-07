@@ -1,6 +1,6 @@
 # Hi there! 👋 I’m Swagata Roy
 
-**Passionate Web Developer | AI Enthusiast | Lifelong Learner**
+**🧠 AI/ML Engineer · Applied Researcher · Ethical Technologist**
 
 🔗 [ORCID](https://orcid.org/0009-0008-7852-4708) • [Email Me](mailto:swagata19s18r@gmail.com)
 
