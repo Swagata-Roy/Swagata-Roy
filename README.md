@@ -4,7 +4,7 @@
 
 🔗 [ORCID](https://orcid.org/0009-0008-7852-4708) • [Email Me](mailto:swagata19s18r@gmail.com)
 
-I'm a computer scientist with a B.Sc. (Hons) in Computer Science, driven by a deep curiosity for intelligent systems and their real-world impact. My work spans machine learning, privacy-preserving AI, and adversarial techniques—always grounded in reproducibility, modular design, and ethical responsibility.
+I'm a computer scientist with a B.Sc. (Hons) in Computer Science, driven by a deep curiosity for intelligent systems and their real-world impact. My work spans IoT healthcare, AI text detection, traffic prediction, crack detection, and plant disease classification—always grounded in reproducibility, modular design, and ethical responsibility.
 
 ## 🔥 Technologies
 
