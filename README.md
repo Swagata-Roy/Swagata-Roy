@@ -4,7 +4,7 @@
 
 🔗 [ORCID](https://orcid.org/0009-0008-7852-4708) • [Email Me](mailto:swagata19s18r@gmail.com)
 
-I'm a computer scientist with a B.Sc. (Hons) in Computer Science, driven by a deep curiosity for intelligent systems and their real-world impact. My work spans IoT healthcare, AI text detection, traffic prediction, crack detection, and plant disease classification—always grounded in reproducibility, modular design, and ethical responsibility.
+Computer scientist exploring the edge of intelligent systems, from privacy-preserving AI to multimodal sensing. I prototype ethically grounded solutions across healthcare, security, and perception—driven by reproducibility, modular design, and a deep curiosity for how machines interpret the world.
 
 ## 🔥 Technologies
 
