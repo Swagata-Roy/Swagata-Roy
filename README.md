@@ -32,4 +32,4 @@ Computer scientist exploring the edge of intelligent systems, from privacy-prese
 ![Netlify](https://img.shields.io/badge/-Netlify-15847D?style=flat-square&logo=netlify&logoColor=white)
 ![Cpanel](https://img.shields.io/badge/-Cpanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swagata-Roy&langs_count=20&theme=dark)
+[//]: # (![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swagata-Roy&langs_count=20&theme=dark))
